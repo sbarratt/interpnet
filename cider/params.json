@@ -1,0 +1,7 @@
+{
+	"pathToData" : "data/",
+	"refName" : "bird-refs.json",
+	"candName" : "bird-cands.json",
+	"resultFile" : "results.json",
+	"idf" : "corpus"
+}

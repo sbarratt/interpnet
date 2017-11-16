@@ -1,0 +1,10 @@
+keras
+numpy
+scipy
+matplotlib
+ipython
+pandas
+sympy
+nose
+nltk
+sklearn

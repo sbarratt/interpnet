@@ -1,0 +1,122 @@
+\begin{thebibliography}{10}
+
+\bibitem{kastner1999increased}
+Sabine Kastner, Mark~A Pinsk, Peter De~Weerd, Robert Desimone, and Leslie~G
+  Ungerleider.
+\newblock Increased activity in human visual cortex during directed attention
+  in the absence of visual stimulation.
+\newblock {\em Neuron}, 22(4):751--761, 1999.
+
+\bibitem{lamme1998feedforward}
+Victor~AF Lamme, Hans Super, and Henk Spekreijse.
+\newblock Feedforward, horizontal, and feedback processing in the visual
+  cortex.
+\newblock {\em Current opinion in neurobiology}, 8(4):529--535, 1998.
+
+\bibitem{bengio2013representation}
+Yoshua Bengio, Aaron Courville, and Pascal Vincent.
+\newblock Representation learning: A review and new perspectives.
+\newblock {\em IEEE transactions on pattern analysis and machine intelligence},
+  35(8):1798--1828, 2013.
+
+\bibitem{WahCUB_200_2011}
+C.~Wah, S.~Branson, P.~Welinder, P.~Perona, and S.~Belongie.
+\newblock {The Caltech-UCSD Birds-200-2011 Dataset}.
+\newblock Technical Report CNS-TR-2011-001, California Institute of Technology,
+  2011.
+
+\bibitem{reed2016learning}
+Scott Reed, Zeynep Akata, Honglak Lee, and Bernt Schiele.
+\newblock Learning deep representations of fine-grained visual descriptions.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 49--58, 2016.
+
+\bibitem{gao2016compact}
+Yang Gao, Oscar Beijbom, Ning Zhang, and Trevor Darrell.
+\newblock Compact bilinear pooling.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 317--326, 2016.
+
+\bibitem{donahue2015long}
+Jeffrey Donahue, Lisa Anne~Hendricks, Sergio Guadarrama, Marcus Rohrbach,
+  Subhashini Venugopalan, Kate Saenko, and Trevor Darrell.
+\newblock Long-term recurrent convolutional networks for visual recognition and
+  description.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 2625--2634, 2015.
+
+\bibitem{kingma2014adam}
+Diederik Kingma and Jimmy Ba.
+\newblock Adam: A method for stochastic optimization.
+\newblock {\em arXiv preprint arXiv:1412.6980}, 2014.
+
+\bibitem{bleu}
+Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu.
+\newblock Bleu: a method for automatic evaluation of machine translation.
+\newblock In {\em Proceedings of the 40th annual meeting on association for
+  computational linguistics}, pages 311--318. Association for Computational
+  Linguistics, 2002.
+
+\bibitem{evaluating_bleu}
+Chris Callison-Burch, Miles Osborne, and Philipp Koehn.
+\newblock Re-evaluation the role of bleu in machine translation research.
+\newblock In {\em EACL}, volume~6, pages 249--256, 2006.
+
+\bibitem{denkowski:lavie:meteor-wmt:2014}
+Michael Denkowski and Alon Lavie.
+\newblock Meteor universal: Language specific translation evaluation for any
+  target language.
+\newblock In {\em Proceedings of the EACL 2014 Workshop on Statistical Machine
+  Translation}, 2014.
+
+\bibitem{vedantam2015cider}
+Ramakrishna Vedantam, C~Lawrence~Zitnick, and Devi Parikh.
+\newblock Cider: Consensus-based image description evaluation.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 4566--4575, 2015.
+
+\bibitem{hendricks2016generating}
+Lisa~Anne Hendricks, Zeynep Akata, Marcus Rohrbach, Jeff Donahue, Bernt
+  Schiele, and Trevor Darrell.
+\newblock Generating visual explanations.
+\newblock In {\em European Conference on Computer Vision}, pages 3--19.
+  Springer International Publishing, 2016.
+
+\bibitem{russakovsky2015imagenet}
+Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma,
+  Zhiheng Huang, Andrej Karpathy, Aditya Khosla, Michael Bernstein, et~al.
+\newblock Imagenet large scale visual recognition challenge.
+\newblock {\em International Journal of Computer Vision}, 115(3):211--252,
+  2015.
+
+\bibitem{rowley1998neural}
+Henry~A Rowley, Shumeet Baluja, and Takeo Kanade.
+\newblock Neural network-based face detection.
+\newblock {\em IEEE Transactions on pattern analysis and machine intelligence},
+  20(1):23--38, 1998.
+
+\bibitem{bahdanau2014neural}
+Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio.
+\newblock Neural machine translation by jointly learning to align and
+  translate.
+\newblock {\em arXiv preprint arXiv:1409.0473}, 2014.
+
+\bibitem{rush2015neural}
+Alexander~M Rush, Sumit Chopra, and Jason Weston.
+\newblock A neural attention model for abstractive sentence summarization.
+\newblock {\em arXiv preprint arXiv:1509.00685}, 2015.
+
+\bibitem{showandtell2014}
+Oriol Vinyals, Alexander Toshev, Samy Bengio, and Dumitru Erhan.
+\newblock Show and tell: A neural image caption generator.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 3156--3164, 2015.
+
+\bibitem{antol2015vqa}
+Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra,
+  C~Lawrence~Zitnick, and Devi Parikh.
+\newblock Vqa: Visual question answering.
+\newblock In {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 2425--2433, 2015.
+
+\end{thebibliography}
