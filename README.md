@@ -24,6 +24,8 @@ Unzip the data:
 $ unzip data.zip
 ```
 
+This data contains 8,192 vectors preprocessed using Bilinear Compact Pooling. If you want the real images data, you can get it from [here](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html).
+
 ### Install METEOR (you will need java, should come installed by default)
 ```
 $ mkdir ~/src
