@@ -66,4 +66,4 @@ $ python main.py --dataroot data/ --experiment run2/ --hiddenlayers 2
 $ python prep_evaluate.py --dataroot data/ --experiment run2/
 $ java -Xmx2G -jar ~/src/meteor-1.5/meteor-1.5.jar run2/explanations.txt run2/reference.txt -l en -norm -r 10 > run2/meteor_results.txt
 $ python evaluate.py --dataroot data/ --experiment run2/
-```
+```# chess-zero
