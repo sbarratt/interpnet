@@ -24,6 +24,8 @@ Unzip the data:
 $ unzip data.zip
 ```
 
+This data contains 8,192 vectors preprocessed using Bilinear Compact Pooling. If you want the real images data, you can get it from [here](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html).
+
 ### Install METEOR (you will need java, should come installed by default)
 ```
 $ mkdir ~/src
@@ -66,4 +68,4 @@ $ python main.py --dataroot data/ --experiment run2/ --hiddenlayers 2
 $ python prep_evaluate.py --dataroot data/ --experiment run2/
 $ java -Xmx2G -jar ~/src/meteor-1.5/meteor-1.5.jar run2/explanations.txt run2/reference.txt -l en -norm -r 10 > run2/meteor_results.txt
 $ python evaluate.py --dataroot data/ --experiment run2/
-```# chess-zero
+```
